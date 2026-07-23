@@ -3,12 +3,7 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int N = intervals.size();
         vector<vector<int>> ans;
-        sort(intervals.begin(), intervals.end(), [](auto const& a, auto const& b){
-            if(a[0] == b[0] && a[1] > b[1]){
-                return b < a;
-            }
-            else return a < b;
-        });
+        sort(intervals.begin(), intervals.end());
         int currMin = intervals[0][0];
         int currMax = intervals[0][1];
         for(auto curr:intervals){
