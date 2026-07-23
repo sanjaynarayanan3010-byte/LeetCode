@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
