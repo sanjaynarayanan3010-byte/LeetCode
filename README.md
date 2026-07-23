@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0443-string-compression) |
 ## Simulation
 |  |
 | ------- |
