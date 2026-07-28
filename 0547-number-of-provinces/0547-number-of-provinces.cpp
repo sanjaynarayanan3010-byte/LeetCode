@@ -23,13 +23,11 @@ public:
                 }
             }
         }
+        int count = 0;
         for(int i=1;i<=N;i++){
             int ult = find(leader, i);
             groupCount[ult]++;
-        }
-        int count = 0;
-        for(int i:groupCount) {
-            if(i > 0) count++;
+            if(groupCount[ult] == 1) count++;
         }
         return count;
     }
