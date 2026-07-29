@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0641-design-circular-deque](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0641-design-circular-deque) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3701-compute-alternating-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -164,9 +166,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
