@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
