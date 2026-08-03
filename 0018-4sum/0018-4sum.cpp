@@ -3,7 +3,6 @@ public:
     vector<vector<int>> fourSum(vector<int>& nums, int x) {
         int N = nums.size();
         sort(nums.begin(), nums.end());
-        map<vector<long long>, long long> mp;
         vector<vector<int>> ans;
         long long target = x;
         for(int i=0;i<N-3;i++){
