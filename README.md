@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3701-compute-alternating-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
