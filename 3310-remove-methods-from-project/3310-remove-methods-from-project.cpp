@@ -14,7 +14,7 @@ public:
             q.pop();
 
             vis[currNode] = 1;
-            for(int i:mp[currNode]){
+            for(int& i:mp[currNode]){
                 if(!vis[i]){
                     q.push(i);
                 }
