@@ -3,7 +3,7 @@ public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& grid) {
         int N = n;
         vector<vector<int>> mp(N);
-        for(auto curr:grid){
+        for(const auto& curr:grid){
             mp[curr[0]].push_back(curr[1]);
         }
         vector<bool> vis(N,0);
@@ -22,7 +22,7 @@ public:
         }
         vector<int> ans;
         bool con = 0;
-        for(auto curr:grid){
+        for(const auto& curr:grid){
             if(!vis[curr[0]] && vis[curr[1]]){
                 con = 1;
                 break;
