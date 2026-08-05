@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& grid) {
         int N = n;
-        unordered_map<int,vector<int>> mp;
+        vector<vector<int>> mp(N+1);
         for(auto curr:grid){
             mp[curr[0]].push_back(curr[1]);
         }
