@@ -20,7 +20,6 @@ public:
                 }
             }
         }
-        for(int i:vis) cout<<i<<" ";
         vector<int> ans;
         bool con = 0;
         for(auto curr:grid){
