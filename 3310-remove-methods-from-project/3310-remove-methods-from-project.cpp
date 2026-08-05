@@ -6,7 +6,7 @@ public:
         for(auto curr:grid){
             mp[curr[0]].push_back(curr[1]);
         }
-        vector<int> vis(N,0);
+        vector<bool> vis(N,0);
         queue<int> q;
         q.push(k);
         while(!q.empty()){
