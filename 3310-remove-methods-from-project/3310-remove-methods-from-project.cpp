@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& grid) {
         int N = n;
-        vector<vector<int>> mp(N+1);
+        vector<vector<int>> mp(N);
         for(auto curr:grid){
             mp[curr[0]].push_back(curr[1]);
         }
