@@ -1,38 +1,23 @@
 class Solution {
 public:
     int minPathSum(vector<vector<int>>& grid) {
-        int R = grid.size();
-        int C = grid[0].size();
-
-        if(R == 1 && C == 1) return grid[0][0];
-
-        int diff[5] = {0, 1, 0};
-
-        priority_queue<tuple<int,int,int>, vector<tuple<int,int,int>>, greater<tuple<int,int,int>>> q;
-
-        q.push(make_tuple(grid[0][0], 0, 0));
-        vector<vector<int>> minDist(R, vector<int>(C, INT_MAX));
-
-        while(!q.empty()){
-            int d = get<0>(q.top());
-            int row = get<1>(q.top());
-            int col = get<2>(q.top());
-
-            q.pop();
-
-            if(minDist[row][col] < d) continue;
-            for(int i=0;i<2;i++){
-                int cr = row+diff[i];
-                int cc = col+diff[i+1];
-
-                if(cr >= 0 && cc >= 0 && cr < R && cc < C){
-                    if(minDist[cr][cc] > d + grid[cr][cc]){
-                        minDist[cr][cc] = d + grid[cr][cc];
-                        q.push(make_tuple(d + grid[cr][cc], cr, cc));
-                    }
-                }
+        int R=grid.size();
+        int C=grid[0].size();
+        vector<vector<int>> dp(R,vector<int>(C,0));
+        dp[0][0]=grid[0][0];
+        for(int i=1;i<C;i++) dp[0][i]=dp[0][i-1]+grid[0][i];
+        for(int i=1;i<R;i++) dp[i][0]+=dp[i-1][0]+grid[i][0];
+        for(int row=1;row<R;row++){
+            for(int col=1;col<C;col++){
+                dp[row][col]=min(dp[row][col-1],dp[row-1][col])+grid[row][col];
             }
         }
-        return minDist[R-1][C-1];
+        // for(int row=0;row<R;row++){
+        //     for(int col=0;col<C;col++){
+        //         cout<<dp[row][col]<<" ";
+        //     }
+        //     cout<<endl;
+        // }
+        return dp[R-1][C-1];
     }
 };
