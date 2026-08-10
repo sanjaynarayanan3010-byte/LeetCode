@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0942-di-string-match) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Design
 |  |
