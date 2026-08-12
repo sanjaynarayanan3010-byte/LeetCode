@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3701-compute-alternating-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
