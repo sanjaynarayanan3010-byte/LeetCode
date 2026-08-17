@@ -1,32 +1,27 @@
-class Solution
-{
+class Solution {
 public:
-    int largestRectangleArea(vector<int>& arr) {
-        int N = arr.size();
-        vector<int> prev(N, -1);
+    int largestRectangleArea(vector<int>& heights) {
+        int N = heights.size();
+        vector<int> lt(N), rt(N);
         stack<int> st;
-        for(int i=0;i<N;i++){
-            while(!st.empty() && arr[st.top()] >= arr[i]){
+        for(int i = 0; i < N; i++){
+            while(!st.empty() && heights[st.top()] >= heights[i])
                 st.pop();
-            }
-            if(!st.empty()) prev[i] = st.top();
+            lt[i] = (st.empty()) ? -1 : st.top();
             st.push(i);
         }
-        while(!st.empty()) st.pop();
-        vector<int> next(N, -1);
-        for(int i=0;i<N;i++){
-            while(!st.empty() && arr[st.top()] > arr[i]){
-                next[st.top()] = i;
+        while(!st.empty())
+            st.pop();
+        for(int i = N-1; i >= 0; i--){
+            while(!st.empty() && heights[st.top()] >= heights[i])
                 st.pop();
-            }
+            rt[i] = (st.empty()) ? N : st.top();
             st.push(i);
         }
         int ans = 0;
-        for(int i=0;i<N;i++){
-            int p = prev[i];
-            int n = next[i];
-            if(n == -1) n = N;
-            ans = max(ans, arr[i] * (n - p - 1));
+        for(int i = 0; i < N; i++){
+            int width = rt[i] - lt[i] - 1;
+            ans = max(ans, heights[i]*width);
         }
         return ans;
     }
