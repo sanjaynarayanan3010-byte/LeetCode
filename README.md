@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0198-house-robber) |
+| [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
 | [0503-next-greater-element-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0641-design-circular-deque](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
@@ -321,4 +323,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
