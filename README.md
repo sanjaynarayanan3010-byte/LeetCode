@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
+| [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0409-longest-palindrome) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sliding Window
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0039-combination-sum) |
+| [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
