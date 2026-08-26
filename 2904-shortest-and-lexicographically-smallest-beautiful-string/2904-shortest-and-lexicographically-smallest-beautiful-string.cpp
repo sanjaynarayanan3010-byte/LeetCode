@@ -38,9 +38,6 @@ public:
             if(t.size() == minSize) temp.push_back(t);
         }
         sort(temp.begin(), temp.end());
-        for(string n : strs) cout<<n<<" ";
-        cout<<endl;
-        for(string n : temp) cout<<n<<" ";
         return temp[0];
     }
 };
