@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1920-build-array-from-permutation](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Depth-First Search
