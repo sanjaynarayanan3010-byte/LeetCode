@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3996-even-number-of-knight-moves](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
 | ------- |
