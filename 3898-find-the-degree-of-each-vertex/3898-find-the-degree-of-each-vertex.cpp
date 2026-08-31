@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findDegrees(vector<vector<int>>& matrix) {
-        unordered_map<int,vector<int>> mp;
+        vector<vector<int>> mp(matrix.size());
         vector<int> ans;
         int ci = 0;
         for(auto const& curr : matrix){
