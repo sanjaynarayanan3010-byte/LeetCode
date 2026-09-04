@@ -1,17 +1,15 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        vector<int> odd;
+        int mo = INT_MAX;
         for(int i : nums1) {
-            if(i & 1) odd.push_back(i);
+            if(i & 1) mo = min(mo, i);
         }
-        sort(odd.begin(), odd.end());
         bool of = 1;
         bool ef = 1;
         for(int i : nums1){
             if(i % 2 == 0) {
-                auto it = lower_bound(odd.begin(), odd.end(), i);
-                if(it == odd.begin()) {
+                if(i <= mo) {
                     of = 0;
                     break;
                 }
@@ -19,8 +17,7 @@ public:
         }
         for(int i : nums1){
             if(i & 1) {
-                auto it = lower_bound(odd.begin(), odd.end(), i);
-                if(it == odd.begin()) {
+                if(i <= mo) {
                     ef = 0;
                     break;
                 }
