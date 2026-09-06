@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0344-reverse-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
