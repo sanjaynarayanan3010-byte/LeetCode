@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0942-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Binary Search
 |  |
 | ------- |
