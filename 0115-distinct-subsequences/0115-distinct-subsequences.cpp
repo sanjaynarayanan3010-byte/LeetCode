@@ -5,15 +5,12 @@ public:
         if(index1<0) return 0;
         if(dp[index1][index2]!=-1) return dp[index1][index2];
         int notEqual=0;
-        int notTake=0,take=0;
-        if(s[index1]!=t[index2]) {
-            notEqual=countSeq(index1-1,index2,s,t,dp);
-        }
-        else{
-            notTake=countSeq(index1-1,index2,s,t,dp);
+        int take=0;
+        if(s[index1]==t[index2]) {
             take=countSeq(index1-1,index2-1,s,t,dp);
         }
-        return dp[index1][index2]=notEqual+notTake+take;
+        notEqual=countSeq(index1-1,index2,s,t,dp);
+        return dp[index1][index2]=notEqual+take;
     }
     int numDistinct(string s, string t) {
         int N1=s.size();
