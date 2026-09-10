@@ -12,18 +12,13 @@
 class Solution {
 public:
     int c = 0;
-
     pair<int,int> prev(TreeNode* node){
         if(!node) return {0, 0};
-        if(node->left == NULL && node->right == NULL) {
-            c++;
-            return {node->val, 1};
-        }
         auto const& left = prev(node->left);
         auto const& right = prev(node->right);
         int pn = left.second + right.second;
         int s = left.first + right.first;
-        if(pn && node->val == ((s + node->val) / (pn + 1))) c++;
+        if(node->val == ((s + node->val) / (pn + 1))) c++;
         return {s + node->val, pn + 1};
     }
 
