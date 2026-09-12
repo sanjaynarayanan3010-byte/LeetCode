@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0942-di-string-match](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0942-di-string-match) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
