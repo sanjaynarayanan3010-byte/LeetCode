@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Stack
