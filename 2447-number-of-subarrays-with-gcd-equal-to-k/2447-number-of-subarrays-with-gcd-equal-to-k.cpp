@@ -5,6 +5,7 @@ public:
         int c = 0;
         for(int i=0;i<N;i++){
             int gc = nums[i];
+            if(gc % k != 0) continue;
             for(int j=i;j<N;j++){
                 gc = gcd(gc, nums[j]);
                 if(gc == k) c++;
