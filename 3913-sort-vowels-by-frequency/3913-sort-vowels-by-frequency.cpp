@@ -19,9 +19,6 @@ public:
             if(a.second.first != b.second.first) return a.second.first > b.second.first;
             return a.second.second < b.second.second;
         });
-
-        for(auto const& i : vc) cout << i.first << ' ' << i.second.first << " " << i.second.second << endl;
-        cout<<endl;
         string ans = "";
         int index = 0;
         for(char ch : s) {
