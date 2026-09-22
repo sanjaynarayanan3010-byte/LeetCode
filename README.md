@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Math
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Minimax
 |  |
 | ------- |
