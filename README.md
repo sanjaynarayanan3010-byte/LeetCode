@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Binary Search
 |  |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Polygons
 |  |
 | ------- |
