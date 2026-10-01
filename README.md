@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3731-find-missing-elements) |
+| [3926-count-valid-word-occurrences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
+| [3926-count-valid-word-occurrences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3996-even-number-of-knight-moves](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3913-sort-vowels-by-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
+| [3926-count-valid-word-occurrences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3913-sort-vowels-by-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
+| [3926-count-valid-word-occurrences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 ## Game Theory
 |  |
 | ------- |
