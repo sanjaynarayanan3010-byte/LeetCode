@@ -19,18 +19,12 @@ public:
                 }
             }
         }
-        // while(!st.empty()) {
-        //     cout << st.top();
-        //     st.pop();
-        // }
         vector<int> ans;
         while(!st.empty() && !isalpha(st.top())) st.pop();
         string s = "";
         while(!st.empty()){
             if(st.top() == ' '){
                 reverse(s.begin(), s.end());
-                // while(!isalpha(s.back())) s.pop_back();
-                // cout << s << endl;
                 q[s]++;
                 s = "";
             }
@@ -38,10 +32,7 @@ public:
             st.pop();
         }
         reverse(s.begin(), s.end());
-        // while(!isalpha(s.back())) s.pop_back();
-        // cout << s;
         q[s]++;
-        // for(auto it : q) cout << it.first << " " << it.second << endl;
         for(string i : queries) {
             ans.push_back(q[i]);
         }
