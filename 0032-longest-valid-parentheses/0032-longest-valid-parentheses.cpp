@@ -5,7 +5,6 @@ public:
         int ans = 0, N = s.size();
         st.push(-1);
         for(int i=0;i<N;i++){
-            if(s[i] == '(' || st.empty()) st.push(i);
             if(s[i] == ')'){
                 st.pop();
                 if(st.empty()) {
@@ -14,6 +13,9 @@ public:
                 else {
                     ans = max(ans, i - st.top());
                 }
+            }
+            else {
+                st.push(i);
             }
         }
         return ans;
