@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0039-combination-sum) |
 | [0212-word-search-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Rolling Hash
 |  |
