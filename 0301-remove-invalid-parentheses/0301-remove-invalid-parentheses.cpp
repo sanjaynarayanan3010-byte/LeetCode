@@ -38,10 +38,7 @@ public:
         next(s, N, 0, 0, temp, 0);
         vector<string> ans;
         unordered_set<string> st;
-        sort(strs.begin(), strs.end(), [](auto const& a, auto const& b){
-            return a.second < b.second;
-        });
-        int minval = strs[0].second;
+        int minval = strs[strs.size()-1].second;
         for(auto const& curr : strs){
             if(curr.second == minval) st.insert(curr.first);
         }
