@@ -29,7 +29,7 @@ public:
         }
         if(!of) return 0;
         // for(int i : nums) cout << i << " ";
-        int ans = cnt[0] - 1;
+        int ans = *max_element(cnt.begin(), cnt.end()) - 1;
         for(int i=0;i<N;i++){
             if(nums[i] == 0 && i == 0) ans = max(ans, nums[i+1]);
             else if(nums[i] == 0 && i == N-1) ans = max(ans, nums[i-1]);
