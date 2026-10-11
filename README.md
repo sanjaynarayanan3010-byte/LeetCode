@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
