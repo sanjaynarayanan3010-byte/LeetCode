@@ -20,7 +20,6 @@ public:
             }
             ans += (((tot % mod) * (tot % mod)) % mod);
         }
-        // for(int i : freq) cout << i << " ";
         return ans % mod;
     }
 };
