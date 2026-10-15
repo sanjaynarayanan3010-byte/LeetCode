@@ -7,9 +7,8 @@ public:
             unordered_set<int> st;
             for(int idx=i;idx<N;idx++){
                 st.insert(nums[idx]);
-                if(i != idx) ans += (st.size() * st.size());
+                ans += (st.size() * st.size());
             }
-            ans++;
         }
         return ans;
     }
