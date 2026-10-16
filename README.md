@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3637-trionic-array-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
