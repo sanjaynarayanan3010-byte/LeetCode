@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3813-vowel-consonant-score) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 ## Simulation
