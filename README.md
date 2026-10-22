@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3926-count-valid-word-occurrences](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3926-count-valid-word-occurrences) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3996-even-number-of-knight-moves](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
