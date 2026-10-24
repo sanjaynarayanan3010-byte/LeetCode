@@ -12,7 +12,7 @@ public:
         }
         int sum = accumulate(div.begin(), div.end(), 0);
         if(sf) return sum;
-        for(int i : div) cout << i << " ";
+        // for(int i : div) cout << i << " ";
         int ans = 0;
         for(int d : div){
             int pmax = -1, maxe = nums[0], mine = nums[0];
