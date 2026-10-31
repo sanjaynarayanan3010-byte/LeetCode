@@ -6,7 +6,7 @@ public:
         if(row >= R || col >= C || col < 0 || row < 0) return 0;
         if(prev != 2 && dp[row][col][prev] != -1) return dp[row][col][prev];
         if(grid[row][col] == 1) {
-            if(prev == 0) return dp[row][col][prev] = dfs(R, C, row+1, col, 1, grid, dp);
+            if(!prev) return dp[row][col][prev] = dfs(R, C, row+1, col, 1, grid, dp);
             else return dp[row][col][prev] = dfs(R, C, row, col + 1, 0, grid, dp);
         }
         return dp[row][col][prev] = (dfs(R, C, row+1, col, 1, grid, dp) + dfs(R, C, row, col+1, 0, grid, dp)) % mod;
