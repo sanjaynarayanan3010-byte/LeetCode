@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
