@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3665-twisted-mirror-path-count) |
