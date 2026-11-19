@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
