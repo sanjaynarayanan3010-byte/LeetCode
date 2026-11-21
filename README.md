@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -634,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
