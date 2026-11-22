@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2788-split-strings-by-separator](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjaynarayanan3010-byte/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
